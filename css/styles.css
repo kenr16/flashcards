@@ -1,5 +1,12 @@
 .jumbotron {
   text-align: center;
+  background-color: #b3ecff;
+  border-style: solid;
+  border-width: 0px 0px 10px 0px;
+  border-color: #33ccff;
+  font-family: fantasy;
+  font-size: 40px;
+
 }
 
 .card {
@@ -23,176 +30,17 @@
   font-family: cursive;
 }
 
-/*.card-hidden {
+.card-hidden {
   display:none;
-}*/
-
-
-.card-showing1 {
   position: absolute;
   text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden1 {
-  position: absolute;
-  text-align: center;
-  display: none;
   padding-left: 30px;
   padding-right: 30px;
 }
 
-.card-showing2 {
+.card-showing {
   position: absolute;
   text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden2 {
-  position: absolute;
-  text-align: center;
-  display: none;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.card-showing3 {
-  position: absolute;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden3 {
-  position: absolute;
-  text-align: center;
-  display: none;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.card-showing4 {
-  position: absolute;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden4 {
-  position: absolute;
-  text-align: center;
-  display: none;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.card-showing5 {
-  position: absolute;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden5 {
-  position: absolute;
-  text-align: center;
-  display: none;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.card-showing6 {
-  position: absolute;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-
-}
-.card-hidden6 {
-  position: absolute;
-  text-align: center;
-  display: none;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.card-showing7 {
-  position: absolute;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden7 {
-  position: absolute;
-  text-align: center;
-  display: none;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.card-showing8 {
-  position: absolute;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden8 {
-  position: absolute;
-  text-align: center;
-  display: none;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.card-showing9 {
-  position: absolute;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden9 {
-  position: absolute;
-  text-align: center;
-  display: none;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.card-showing10 {
-  position: absolute;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden10 {
-  position: absolute;
-  text-align: center;
-  display: none;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.card-showing11 {
-  position: absolute;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden11 {
-  position: absolute;
-  text-align: center;
-  display: none;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.card-showing12 {
-  position: absolute;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-.card-hidden12 {
-  position: absolute;
-  text-align: center;
-  display: none;
   padding-left: 30px;
   padding-right: 30px;
 }
